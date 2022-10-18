@@ -1,0 +1,1 @@
+# pokemon-slider-correto
